@@ -1,0 +1,21 @@
+{
+  "name": "static_server",
+  "version": "1.0.0",
+  "description": "Simple Node server to serve static files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startHttp": "node index.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uforujjwal/static_server.git"
+  },
+  "author": "Ujjwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uforujjwal/static_server/issues"
+  },
+  "homepage": "https://github.com/uforujjwal/static_server#readme"
+}
